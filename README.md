@@ -1,5 +1,5 @@
 # 🏨 Hotel Management System
-A **Java-based Hotel Reservation System** designed for simple and efficient booking management. This project covers essential features like hotel creation, room reservation, and customer management, making it ideal for learning Java Object-Oriented Programming (OOP) principles and system design.
+A **Java-based Hotel Management System** designed for simple and efficient booking management. This project covers essential features like hotel creation, room reservation, and customer management, making it ideal for learning Java Object-Oriented Programming (OOP) principles and system design.
 
 ---
 
